@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../app.dart';
+import '../routegen.dart';
 
 class SecondScreen extends StatelessWidget {
   final String _incomingText;

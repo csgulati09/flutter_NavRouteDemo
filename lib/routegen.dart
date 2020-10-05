@@ -3,6 +3,9 @@ import 'app.dart';
 import 'screens/firstscreen.dart';
 import 'screens/secondscreen.dart';
 
+const PathFirstScreen = '/';
+const PathSecondScreen = '/SecondScreen';
+
 class RouteGen {
   static Route<dynamic> routes(RouteSettings settings) {
     final Map<String, dynamic> arguments = settings.arguments;

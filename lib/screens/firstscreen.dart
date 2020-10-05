@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../app.dart';
+import '../routegen.dart';
 
 class FirstScreen extends StatelessWidget {
   String argumentFromS1 = "This is an argument that is coming from SCREEN 1";

@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'routegen.dart';
 
-const PathFirstScreen = '/';
-const PathSecondScreen = '/SecondScreen';
 
 class App extends StatelessWidget {
   @override
